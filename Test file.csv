@@ -1,0 +1,2 @@
+﻿ScoutId,MatchKey,Alliance,DriverStation,TeamNumber,AutoSpeaker,AutoAmp,AutoLeave,AutoCenterline,AutoNotes,TeleopSpeaker,TeleopAmp,TeleopTrap,TeleopPassing,TeleopNotes,Parked,ClimbStatus,Harmonized,ClimbSpeed,EndgameNotes,Disabled,DriverRating,DefenseTime,DefenseSkill,CounterDefenseSkill,RatingNotes
+K,qm1,red,1,346,1,1,false,false,,0,1,1,0,,false,false,false,,,false,,,,,
